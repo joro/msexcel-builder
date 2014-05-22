@@ -1,5 +1,11 @@
 # msexcel-builder
 
+## Fork notice
+
+This fork tends to solve the warning of missing font "宋体".
+
+## Original README
+
 A simple and fast library to create MS Office Excel(>2007) xlsx files(Compatible with the OpenOffice document format). 
 
 Features:
